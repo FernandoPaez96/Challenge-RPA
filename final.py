@@ -6,6 +6,7 @@ import time, os
 
 class Automation:
     def __init__(self, url, name_agencie): 
+        os.mkdir('output')
         self.browser_lib = Selenium()
         self.file = Files()
         self.browser_lib.set_download_directory(os.path.join(os.getcwd(), f"output/"))
