@@ -8,7 +8,7 @@
   <h3 align="center">Challengue RPA</h3>
 
   <p align="center">
-    A platform to explore ETH Blockchain.
+
   </p>
 </p>
 
