@@ -1,7 +1,5 @@
 # Callengue-RPA<!--
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -53,7 +51,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Fernando Paez  - [fernando96paez@gmail.com](mailto:fernando96paez@gmail.com)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/FernandoPaez96/Callengue-RPA](https://github.com/FernandoPaez96/Callengue-RPA)
 
 
 
