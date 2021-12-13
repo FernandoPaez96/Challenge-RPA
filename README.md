@@ -32,17 +32,10 @@ Your challenge is to automate the process of extracting data from [**itdashboard
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
 
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
@@ -50,6 +43,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Fernando Paez  - [fernando96paez@gmail.com](mailto:fernando96paez@gmail.com)
+Linkedin : [https://www.linkedin.com/in/fernando-paez/](https://www.linkedin.com/in/fernando-paez/)
 
 Project Link: [https://github.com/FernandoPaez96/Callengue-RPA](https://github.com/FernandoPaez96/Callengue-RPA)
 
